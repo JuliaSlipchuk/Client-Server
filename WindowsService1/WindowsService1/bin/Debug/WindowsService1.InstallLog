@@ -1,0 +1,42 @@
+﻿Выполняется установка сборки 'D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба Shovk...
+Создается исходный EventLog Shovk в журнале Application...
+Выполняется откат для сборки 'D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника Shovk.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба Shovk...
+Служба Shovk успешно установлена.
+Создается исходный EventLog Shovk в журнале Application...
+Выполняется фиксация сборки 'D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing assembly 'D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Installing service Shovk...
+Service Shovk has been successfully installed.
+Creating EventLog source Shovk in log Application...
+Committing assembly 'D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog

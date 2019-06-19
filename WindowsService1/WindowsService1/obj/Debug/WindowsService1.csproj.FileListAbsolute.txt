@@ -1,0 +1,27 @@
+D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\SysProgLabs-master\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+D:\SysProgLabs-master\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\SysProgLabs-master\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+D:\SysProgLabs-master\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+D:\SysProgLabs-master\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+D:\SysProgLabs-master\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+D:\SysProgLabs-master\Shovkoviy-2-1-4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\SysProgLabs-master\Shovkoviy-2-1-4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+D:\SysProgLabs-master\Shovkoviy-2-1-4\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\SysProgLabs-master\Shovkoviy-2-1-4\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+D:\SysProgLabs-master\Shovkoviy-2-1-4\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\SysProgLabs-master\Shovkoviy-2-1-4\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache
+D:\SysProgLabs-master\Shovkoviy-2-1-4\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+D:\SysProgLabs-master\Shovkoviy-2-1-4\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+D:\SysProgLabs-master\Shovkoviy-2-1-4\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb

@@ -1,0 +1,45 @@
+﻿
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.
+Данный файл находится в D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+На этапе установки возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+
+Начинается этап отката процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.
+Данный файл находится в D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+Этап отката выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Выполняется групповая операция установки.
+
+Начинается этап установки процедуры установки.
+См. файл журнала выполнения операция для сборки D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.
+Данный файл находится в D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+Этап установки успешно выполнен, начинается этап фиксации.
+См. файл журнала выполнения операция для сборки D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.
+Данный файл находится в D:\Универ\Системн прогр\шОвковий)\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+Этап фиксации выполнен успешно.
+
+Групповая операция установки выполнена.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe assembly's progress.
+The file is located at D:\SysProgLabs-master\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
